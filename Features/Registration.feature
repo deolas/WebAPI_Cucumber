@@ -1,4 +1,4 @@
-Feature: Registration
+Feature: Registration through UI
 
   @regression11
   Scenario: Successful Registration with Valid Credentials

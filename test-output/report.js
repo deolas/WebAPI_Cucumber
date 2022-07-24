@@ -1,19 +1,16 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("file:Features/Login_API.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("file:Features/Login.feature");
 formatter.feature({
-  "name": "User should be able to Login.",
+  "name": "Login to application through UI",
   "description": "",
   "keyword": "Feature"
 });
 formatter.scenario({
-  "name": "Verify user Login through API",
+  "name": "Successful Login with Valid Credentials",
   "description": "",
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@login_api"
-    },
-    {
-      "name": "@api"
+      "name": "@regression11"
     }
   ]
 });
@@ -21,72 +18,101 @@ formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "application is up and reachable",
+  "name": "User Launch Chrome browser",
   "keyword": "Given "
 });
 formatter.match({
-  "location": "StepsAPI.initialize_comment_api_spec()"
+  "location": "Steps.user_Launch_Chrome_browser()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "Login with username as \"test-f35fe6@test.mailgenius.com\" and password as \"Qwerty\"",
+  "name": "User opens URL \"https://fego.vmos-demo.com/\"",
   "keyword": "When "
 });
-formatter.match({});
+formatter.match({
+  "location": "Steps.user_opens_URL(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "status": "passed"
 });
 formatter.step({
-  "name": "verify the response code is 200",
+  "name": "Click on Login link",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.click_on_Login_link()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User enters Email as \"test-f35fe6@test.mailgenius.com\" and Password as \"Qwerty19\"",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.user_enters_Email_as_and_Password_as(String,String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click on Login",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.click_on_Login()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Page Title should be \"Fego\"",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "StepsAPI.verify_response_code(int)"
+  "location": "Steps.page_Title_should_be(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.step({
-  "name": "verify response time is within configured value",
+  "name": "Username should be \"fego vmos\"",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.user_name_should_be(String)"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "close browser",
   "keyword": "And "
 });
 formatter.match({
-  "location": "StepsAPI.verify_response_time()"
+  "location": "Steps.close_browser()"
 });
 formatter.result({
-  "status": "skipped"
-});
-formatter.step({
-  "name": "verify the user is created successfully",
-  "keyword": "And "
-});
-formatter.match({
-  "location": "StepsAPI.verify_the_user_is_created_successfully()"
-});
-formatter.result({
-  "status": "skipped"
+  "status": "passed"
 });
 formatter.after({
   "status": "passed"
 });
-formatter.uri("file:Features/Registration_API.feature");
+formatter.uri("file:Features/Registration.feature");
 formatter.feature({
-  "name": "User should be able to Register.",
+  "name": "Registration through UI",
   "description": "",
   "keyword": "Feature"
 });
 formatter.scenario({
-  "name": "Verify user registration through API",
+  "name": "Successful Registration with Valid Credentials",
   "description": "",
   "keyword": "Scenario",
   "tags": [
     {
-      "name": "@register_api"
-    },
-    {
-      "name": "@api"
+      "name": "@regression11"
     }
   ]
 });
@@ -94,51 +120,91 @@ formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "application is up and reachable",
+  "name": "User Launch Chrome browser",
   "keyword": "Given "
 });
 formatter.match({
-  "location": "StepsAPI.initialize_comment_api_spec()"
+  "location": "Steps.user_Launch_Chrome_browser()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "Register user with name as \"fego vmos\"",
+  "name": "User opens URL \"https://fego.vmos-demo.com/\"",
   "keyword": "When "
 });
 formatter.match({
-  "location": "StepsAPI.create_user(String)"
+  "location": "Steps.user_opens_URL(String)"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "verify the response code is 201",
+  "name": "Click on Login link",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.click_on_Login_link()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click on Create Account tab",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.click_on_create_account_tab()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "User enters customer info",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.user_enter_customer_info()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click on Create Account Button",
+  "keyword": "And "
+});
+formatter.match({
+  "location": "Steps.click_on_create_button()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Page Title should be \"Fego\"",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "StepsAPI.verify_response_code(int)"
+  "location": "Steps.page_Title_should_be(String)"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "verify response time is within configured value",
-  "keyword": "And "
+  "name": "Username should be \"fego user\"",
+  "keyword": "Then "
 });
 formatter.match({
-  "location": "StepsAPI.verify_response_time()"
+  "location": "Steps.user_name_should_be(String)"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "verify the user is created successfully",
+  "name": "close browser",
   "keyword": "And "
 });
 formatter.match({
-  "location": "StepsAPI.verify_the_user_is_created_successfully()"
+  "location": "Steps.close_browser()"
 });
 formatter.result({
   "status": "passed"

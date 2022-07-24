@@ -9,6 +9,6 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		features="Features",
 		glue={"stepDefinitions"},
-		tags= "@api",
+		tags= "@regression11",
 		plugin= {"pretty","html:test-output"})
 public class TestRunner { }

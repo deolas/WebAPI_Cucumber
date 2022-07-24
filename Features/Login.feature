@@ -1,4 +1,4 @@
-Feature: Login to application
+Feature: Login to application through UI
 
   @regression11
   Scenario: Successful Login with Valid Credentials
