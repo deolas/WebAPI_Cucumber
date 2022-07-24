@@ -1,0 +1,12 @@
+{
+  "environment": {
+      "max_response_time": "3000",
+      "auth_user": "testenvuser",
+      "auth_password": "testenvpassword",
+      "tenant": "695a1486-80e7-4ee6-bc55-f4911944ef2a",
+      "base_uri" : "https://vmos2.vmos-demo.com",
+      "storeUUID": "ced48917-54c2-40ad-a646-5315f5dcb28f",
+      "locale": "en-GB",
+      "password": "Qwerty19"
+    }
+}

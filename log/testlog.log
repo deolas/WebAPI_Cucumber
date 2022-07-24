@@ -1,0 +1,521 @@
+2020-05-04 23:36:11,900 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2020-05-04 23:36:11,946 - utilities.DriverManager -INFO - *****Launched url : http://admin-demo.nopcommerce.com/login*****
+2020-05-04 23:36:17,696 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@class='email'] found on the page*****
+2020-05-04 23:36:18,106 - utilities.DriverManager -INFO - *****Text: admin@yourstore.com entered in [[ChromeDriver: chrome on WINDOWS (f12f5bd002b104d6c3c19bed05c373bf)] -> xpath: //input[@class='email']]*****
+2020-05-04 23:36:18,188 - utilities.DriverManager -INFO - *****Element By.id: Password found on the page*****
+2020-05-04 23:36:18,361 - utilities.DriverManager -INFO - *****Text: admin entered in [[ChromeDriver: chrome on WINDOWS (f12f5bd002b104d6c3c19bed05c373bf)] -> id: Password]*****
+2020-05-04 23:36:18,448 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@value='Log in'] clickable on the page*****
+2020-05-04 23:36:18,526 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (f12f5bd002b104d6c3c19bed05c373bf)] -> xpath: //input[@value='Log in']]*****
+2020-05-04 23:36:27,099 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2020-05-04 23:36:27,168 - utilities.DriverManager -INFO - *****The Title of the page : Dashboard / nopCommerce administration*****
+2020-05-04 23:36:27,532 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[href*='logout'] clickable on the page*****
+2020-05-04 23:36:27,562 - utilities.DriverManager -INFO - *****Element clicked using javascript executor : [[ChromeDriver: chrome on WINDOWS (f12f5bd002b104d6c3c19bed05c373bf)] -> css selector: a[href*='logout']]*****
+2020-05-04 23:36:30,610 - utilities.DriverManager -INFO - *****The Title of the page : Your store. Login*****
+2020-05-04 23:36:36,935 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2020-05-04 23:36:36,966 - utilities.DriverManager -INFO - *****Launched url : http://admin-demo.nopcommerce.com/login*****
+2020-05-04 23:36:39,156 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@class='email'] found on the page*****
+2020-05-04 23:36:39,472 - utilities.DriverManager -INFO - *****Text: admin1@yourstore.com entered in [[ChromeDriver: chrome on WINDOWS (d32d5a095e68e2c80ec809efdbe9a324)] -> xpath: //input[@class='email']]*****
+2020-05-04 23:36:39,559 - utilities.DriverManager -INFO - *****Element By.id: Password found on the page*****
+2020-05-04 23:36:39,810 - utilities.DriverManager -INFO - *****Text: admin123 entered in [[ChromeDriver: chrome on WINDOWS (d32d5a095e68e2c80ec809efdbe9a324)] -> id: Password]*****
+2020-05-04 23:36:39,884 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@value='Log in'] clickable on the page*****
+2020-05-04 23:36:39,997 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (d32d5a095e68e2c80ec809efdbe9a324)] -> xpath: //input[@value='Log in']]*****
+2020-05-04 23:36:41,018 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2020-05-04 23:36:41,028 - utilities.DriverManager -INFO - *****The Title of the page : Your store. Login*****
+2020-05-04 23:36:41,038 - utilities.DriverManager -INFO - Scenario is failed : Login Data Driven
+2020-05-04 23:36:41,671 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2020-05-31 10:37:18,521 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2020-05-31 10:37:18,537 - utilities.DriverManager -INFO - *****Launched url : http://admin-demo.nopcommerce.com/login*****
+2020-05-31 10:37:30,467 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@class='email'] found on the page*****
+2020-05-31 10:37:30,748 - utilities.DriverManager -INFO - *****Text: admin@yourstore.com entered in [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //input[@class='email']]*****
+2020-05-31 10:37:30,821 - utilities.DriverManager -INFO - *****Element By.id: Password found on the page*****
+2020-05-31 10:37:30,998 - utilities.DriverManager -INFO - *****Text: admin entered in [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> id: Password]*****
+2020-05-31 10:37:31,070 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@value='Log in'] clickable on the page*****
+2020-05-31 10:37:31,167 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //input[@value='Log in']]*****
+2020-05-31 10:37:38,696 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2020-05-31 10:37:38,804 - utilities.DriverManager -INFO - *****Element By.xpath: //a[@href='#']//span[contains(text(),'Customers')] found on the page*****
+2020-05-31 10:37:38,815 - utilities.DriverManager -INFO - *****The Title of the page : Dashboard / nopCommerce administration*****
+2020-05-31 10:37:38,905 - utilities.DriverManager -INFO - *****Element By.xpath: //a[@href='#']//span[contains(text(),'Customers')] clickable on the page*****
+2020-05-31 10:37:38,942 - utilities.DriverManager -INFO - *****Element clicked using javascript executor : [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //a[@href='#']//span[contains(text(),'Customers')]]*****
+2020-05-31 10:37:39,076 - utilities.DriverManager -INFO - *****Element By.xpath: //span[@class='menu-item-title'][contains(text(),'Customers')] clickable on the page*****
+2020-05-31 10:37:39,260 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //span[@class='menu-item-title'][contains(text(),'Customers')]]*****
+2020-05-31 10:37:43,863 - utilities.DriverManager -INFO - *****Element By.xpath: //a[@class='btn bg-blue'] clickable on the page*****
+2020-05-31 10:37:43,941 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //a[@class='btn bg-blue']]*****
+2020-05-31 10:37:48,627 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2020-05-31 10:37:48,640 - utilities.DriverManager -INFO - *****The Title of the page : Add a new customer / nopCommerce administration*****
+2020-05-31 10:37:48,714 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@id='Email'] found on the page*****
+2020-05-31 10:37:49,115 - utilities.DriverManager -INFO - *****Text: IMuUQ@gmail.com entered in [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //input[@id='Email']]*****
+2020-05-31 10:37:49,176 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@id='Password'] found on the page*****
+2020-05-31 10:37:49,367 - utilities.DriverManager -INFO - *****Text: test123 entered in [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //input[@id='Password']]*****
+2020-05-31 10:37:49,437 - utilities.DriverManager -INFO - *****Element By.xpath: //*[@id="SelectedCustomerRoleIds_taglist"]/li/span[2] clickable on the page*****
+2020-05-31 10:37:49,511 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //*[@id="SelectedCustomerRoleIds_taglist"]/li/span[2]]*****
+2020-05-31 10:37:49,562 - utilities.DriverManager -INFO - *****Element By.xpath: //label[text()='Customer roles']//following::div[@class='k-multiselect-wrap k-floatwrap'] clickable on the page*****
+2020-05-31 10:37:49,715 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //label[text()='Customer roles']//following::div[@class='k-multiselect-wrap k-floatwrap']]*****
+2020-05-31 10:37:49,798 - utilities.DriverManager -INFO - *****Element By.xpath: //li[contains(text(),'Guest')] clickable on the page*****
+2020-05-31 10:37:49,833 - utilities.DriverManager -INFO - *****Element clicked using javascript executor : [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //li[contains(text(),'Guest')]]*****
+2020-05-31 10:37:49,903 - utilities.DriverManager -INFO - *****Element By.xpath: //*[@id='VendorId'] found on the page*****
+2020-05-31 10:37:50,076 - utilities.DriverManager -INFO - ***** Dropdown value Vendor 2 selected*****
+2020-05-31 10:37:50,155 - utilities.DriverManager -INFO - *****Element By.id: Gender_Male clickable on the page*****
+2020-05-31 10:37:50,263 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> id: Gender_Male]*****
+2020-05-31 10:37:50,319 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@id='FirstName'] found on the page*****
+2020-05-31 10:37:50,535 - utilities.DriverManager -INFO - *****Text: AutoFirst entered in [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //input[@id='FirstName']]*****
+2020-05-31 10:37:50,589 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@id='LastName'] found on the page*****
+2020-05-31 10:37:50,790 - utilities.DriverManager -INFO - *****Text: AutoLast entered in [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //input[@id='LastName']]*****
+2020-05-31 10:37:50,854 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@id='DateOfBirth'] found on the page*****
+2020-05-31 10:37:51,113 - utilities.DriverManager -INFO - *****Text: 7/05/1985 entered in [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //input[@id='DateOfBirth']]*****
+2020-05-31 10:37:51,168 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@id='Company'] found on the page*****
+2020-05-31 10:37:51,356 - utilities.DriverManager -INFO - *****Text: busyQA entered in [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //input[@id='Company']]*****
+2020-05-31 10:37:51,412 - utilities.DriverManager -INFO - *****Element By.xpath: //textarea[@id='AdminComment'] found on the page*****
+2020-05-31 10:37:51,885 - utilities.DriverManager -INFO - *****Text: This is for testing......... entered in [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //textarea[@id='AdminComment']]*****
+2020-05-31 10:37:51,943 - utilities.DriverManager -INFO - *****Element By.xpath: //button[@name='save'] clickable on the page*****
+2020-05-31 10:37:52,062 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (aa6a858a7442ad6ff968ff1f4f140dad)] -> xpath: //button[@name='save']]*****
+2020-05-31 10:37:57,604 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2020-05-31 10:38:03,786 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2020-05-31 10:38:03,817 - utilities.DriverManager -INFO - *****Launched url : http://admin-demo.nopcommerce.com/login*****
+2020-05-31 10:38:06,303 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@class='email'] found on the page*****
+2020-05-31 10:38:06,533 - utilities.DriverManager -INFO - *****Text: admin@yourstore.com entered in [[ChromeDriver: chrome on WINDOWS (7a7069c9ae48950e8c3e7dccf98326cf)] -> xpath: //input[@class='email']]*****
+2020-05-31 10:38:06,587 - utilities.DriverManager -INFO - *****Element By.id: Password found on the page*****
+2020-05-31 10:38:06,744 - utilities.DriverManager -INFO - *****Text: admin entered in [[ChromeDriver: chrome on WINDOWS (7a7069c9ae48950e8c3e7dccf98326cf)] -> id: Password]*****
+2020-05-31 10:38:06,804 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@value='Log in'] clickable on the page*****
+2020-05-31 10:38:06,901 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (7a7069c9ae48950e8c3e7dccf98326cf)] -> xpath: //input[@value='Log in']]*****
+2020-05-31 10:38:11,901 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2020-05-31 10:38:11,971 - utilities.DriverManager -INFO - *****Element By.xpath: //a[@href='#']//span[contains(text(),'Customers')] found on the page*****
+2020-05-31 10:38:11,986 - utilities.DriverManager -INFO - *****The Title of the page : Dashboard / nopCommerce administration*****
+2020-05-31 10:38:12,081 - utilities.DriverManager -INFO - *****Element By.xpath: //a[@href='#']//span[contains(text(),'Customers')] clickable on the page*****
+2020-05-31 10:38:12,113 - utilities.DriverManager -INFO - *****Element clicked using javascript executor : [[ChromeDriver: chrome on WINDOWS (7a7069c9ae48950e8c3e7dccf98326cf)] -> xpath: //a[@href='#']//span[contains(text(),'Customers')]]*****
+2020-05-31 10:38:12,248 - utilities.DriverManager -INFO - *****Element By.xpath: //span[@class='menu-item-title'][contains(text(),'Customers')] clickable on the page*****
+2020-05-31 10:38:12,422 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (7a7069c9ae48950e8c3e7dccf98326cf)] -> xpath: //span[@class='menu-item-title'][contains(text(),'Customers')]]*****
+2020-05-31 10:38:17,362 - utilities.DriverManager -INFO - *****Element By.id: SearchEmail found on the page*****
+2020-05-31 10:38:18,121 - utilities.DriverManager -INFO - *****Text: victoria_victoria@nopCommerce.com entered in [[ChromeDriver: chrome on WINDOWS (7a7069c9ae48950e8c3e7dccf98326cf)] -> id: SearchEmail]*****
+2020-05-31 10:38:18,190 - utilities.DriverManager -INFO - *****Element By.id: search-customers clickable on the page*****
+2020-05-31 10:38:18,290 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (7a7069c9ae48950e8c3e7dccf98326cf)] -> id: search-customers]*****
+2020-05-31 10:38:18,304 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2020-05-31 10:38:20,304 - utilities.DriverManager -INFO - *****Hard wait for 2seconds*****
+2020-05-31 10:38:20,382 - utilities.DriverManager -INFO - *****Element By.xpath: //table[@id='customers-grid'] found on the page*****
+2020-05-31 10:38:20,456 - utilities.DriverManager -INFO - ***** Email id: victoria_victoria@nopCommerce.comcame in search results
+2022-07-22 21:11:22,582 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-22 21:11:22,610 - utilities.DriverManager -INFO - *****Launched url : http://admin-demo.nopcommerce.com/login*****
+2022-07-22 21:12:02,992 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@class='email'] not found on the page*****
+2022-07-22 21:12:03,021 - utilities.DriverManager -INFO - Scenario is failed : Search Customer by Name
+2022-07-22 21:12:03,140 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-22 21:12:04,672 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-22 21:18:29,097 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-22 21:18:29,122 - utilities.DriverManager -INFO - *****Launched url : http://admin-demo.nopcommerce.com/login*****
+2022-07-22 21:18:47,086 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@class='email'] found on the page*****
+2022-07-22 21:18:47,250 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (5e1c50c069f9dc065a6a6103879c2959)] -> xpath: //input[@class='email']]*****
+2022-07-22 21:18:47,314 - utilities.DriverManager -INFO - *****Element By.id: Password found on the page*****
+2022-07-22 21:18:47,430 - utilities.DriverManager -INFO - *****Text: C��-} entered in [[ChromeDriver: chrome on WINDOWS (5e1c50c069f9dc065a6a6103879c2959)] -> id: Password]*****
+2022-07-22 21:19:27,460 - utilities.DriverManager -INFO - Scenario is failed : Search Customer by Name
+2022-07-22 21:19:27,586 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-22 21:19:29,269 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-22 21:27:24,126 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-22 21:27:24,148 - utilities.DriverManager -INFO - *****Launched url : http://admin-demo.nopcommerce.com/login*****
+2022-07-22 21:27:42,004 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@class='email'] found on the page*****
+2022-07-22 21:27:42,214 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (3519fa77af34e48653e46a8d5c92bcfe)] -> xpath: //input[@class='email']]*****
+2022-07-22 21:27:42,270 - utilities.DriverManager -INFO - *****Element By.id: Password found on the page*****
+2022-07-22 21:27:42,404 - utilities.DriverManager -INFO - *****Text: C��-} entered in [[ChromeDriver: chrome on WINDOWS (3519fa77af34e48653e46a8d5c92bcfe)] -> id: Password]*****
+2022-07-22 21:28:22,477 - utilities.DriverManager -INFO - Scenario is failed : Search Customer by Name
+2022-07-22 21:28:22,616 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-22 21:28:24,122 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-22 21:40:10,989 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-22 21:40:11,017 - utilities.DriverManager -INFO - *****Launched url : http://admin-demo.nopcommerce.com/login*****
+2022-07-22 21:40:44,459 - utilities.DriverManager -INFO - *****Element By.xpath: //input[@class='email'] found on the page*****
+2022-07-22 21:40:44,610 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (f6f313ce9ad8bab8f96b9b39f79b0b97)] -> xpath: //input[@class='email']]*****
+2022-07-22 21:40:44,658 - utilities.DriverManager -INFO - *****Element By.id: Password found on the page*****
+2022-07-22 21:40:44,771 - utilities.DriverManager -INFO - *****Text: C��-} entered in [[ChromeDriver: chrome on WINDOWS (f6f313ce9ad8bab8f96b9b39f79b0b97)] -> id: Password]*****
+2022-07-22 21:41:25,115 - utilities.DriverManager -INFO - Scenario is failed : Search Customer by Name
+2022-07-22 21:41:25,230 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-22 21:41:26,715 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 08:17:58,471 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 08:17:58,491 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 08:18:04,385 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 08:18:04,498 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (833c558d4d311705dfab6fdb130f6175)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 08:18:05,199 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 08:18:05,258 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 08:18:05,508 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (833c558d4d311705dfab6fdb130f6175)] -> id: email]*****
+2022-07-23 08:18:05,555 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 08:18:05,672 - utilities.DriverManager -INFO - *****Text: C��-} entered in [[ChromeDriver: chrome on WINDOWS (833c558d4d311705dfab6fdb130f6175)] -> id: password]*****
+2022-07-23 08:18:05,732 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 08:18:05,793 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (833c558d4d311705dfab6fdb130f6175)] -> xpath: //button[text()='Login']]*****
+2022-07-23 08:18:05,808 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 08:18:05,815 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 08:18:45,985 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem not found on the page*****
+2022-07-23 08:18:45,999 - utilities.DriverManager -INFO - Scenario is failed : Successful Login with Valid Credentials
+2022-07-23 08:18:46,255 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 08:21:07,771 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 08:21:07,797 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 08:21:13,592 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 08:21:13,698 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (91a2516ebd97906f9d5d700526556e9e)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 08:21:14,416 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 08:21:14,460 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 08:21:14,742 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (91a2516ebd97906f9d5d700526556e9e)] -> id: email]*****
+2022-07-23 08:21:14,788 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 08:21:14,903 - utilities.DriverManager -INFO - *****Text: C��-} entered in [[ChromeDriver: chrome on WINDOWS (91a2516ebd97906f9d5d700526556e9e)] -> id: password]*****
+2022-07-23 08:21:14,960 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 08:21:15,026 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (91a2516ebd97906f9d5d700526556e9e)] -> xpath: //button[text()='Login']]*****
+2022-07-23 08:21:15,034 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 08:21:15,041 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 08:22:10,346 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 08:22:10,369 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 08:22:16,631 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 08:22:16,725 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (5e7ffd4abd5fbe7e29f5ca109fffbee1)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 08:22:17,847 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 08:22:17,889 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 08:22:18,139 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (5e7ffd4abd5fbe7e29f5ca109fffbee1)] -> id: email]*****
+2022-07-23 08:22:18,176 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 08:22:18,309 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (5e7ffd4abd5fbe7e29f5ca109fffbee1)] -> id: password]*****
+2022-07-23 08:22:18,360 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 08:22:18,421 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (5e7ffd4abd5fbe7e29f5ca109fffbee1)] -> xpath: //button[text()='Login']]*****
+2022-07-23 08:22:18,430 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 08:22:18,437 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 08:22:20,797 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 08:22:20,822 - utilities.DriverManager -INFO - Scenario is failed : Successful Login with Valid Credentials
+2022-07-23 08:22:21,087 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 08:26:51,444 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 08:26:51,466 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 08:26:57,293 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 08:26:57,383 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (08b2eaad674e3f752019381f8df67712)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 08:26:58,089 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 08:26:58,143 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 08:26:58,378 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (08b2eaad674e3f752019381f8df67712)] -> id: email]*****
+2022-07-23 08:26:58,418 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 08:26:58,541 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (08b2eaad674e3f752019381f8df67712)] -> id: password]*****
+2022-07-23 08:26:58,590 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 08:26:58,650 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (08b2eaad674e3f752019381f8df67712)] -> xpath: //button[text()='Login']]*****
+2022-07-23 08:26:58,657 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 08:26:58,664 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 08:27:00,844 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 11:27:49,952 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 11:27:49,981 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 11:27:55,759 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 11:27:55,852 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (d21c4593aa1cf425b18ab152c392785b)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 11:27:56,542 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:27:56,610 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 11:27:56,852 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (d21c4593aa1cf425b18ab152c392785b)] -> id: email]*****
+2022-07-23 11:27:56,902 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 11:27:57,023 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (d21c4593aa1cf425b18ab152c392785b)] -> id: password]*****
+2022-07-23 11:27:57,072 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 11:27:57,133 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (d21c4593aa1cf425b18ab152c392785b)] -> xpath: //button[text()='Login']]*****
+2022-07-23 11:27:57,139 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:27:57,147 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 11:27:59,874 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 11:28:01,438 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 11:28:01,454 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 11:28:05,478 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 11:28:05,706 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (2600e6d5cfca22b26085353a8e79e405)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 11:28:06,232 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:28:06,295 - utilities.DriverManager -INFO - *****Element By.xpath: //li[text()='Create Account'] clickable on the page*****
+2022-07-23 11:28:06,443 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (2600e6d5cfca22b26085353a8e79e405)] -> xpath: //li[text()='Create Account']]*****
+2022-07-23 11:28:06,470 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:29:55,308 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 11:29:55,329 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 11:30:02,220 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 11:30:02,337 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (9dc7f479ae180f1b833f8b8e93c532a8)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 11:30:03,570 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:30:03,622 - utilities.DriverManager -INFO - *****Element By.xpath: //li[text()='Create Account'] clickable on the page*****
+2022-07-23 11:30:03,734 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (9dc7f479ae180f1b833f8b8e93c532a8)] -> xpath: //li[text()='Create Account']]*****
+2022-07-23 11:30:03,742 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:30:03,780 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 11:30:03,975 - utilities.DriverManager -INFO - *****Text: lFxgR@gmail.com entered in [[ChromeDriver: chrome on WINDOWS (9dc7f479ae180f1b833f8b8e93c532a8)] -> id: email]*****
+2022-07-23 11:30:04,030 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 11:30:04,166 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (9dc7f479ae180f1b833f8b8e93c532a8)] -> id: password]*****
+2022-07-23 11:30:04,210 - utilities.DriverManager -INFO - *****Element By.id: firstName found on the page*****
+2022-07-23 11:30:04,341 - utilities.DriverManager -INFO - *****Text: fego user entered in [[ChromeDriver: chrome on WINDOWS (9dc7f479ae180f1b833f8b8e93c532a8)] -> id: firstName]*****
+2022-07-23 11:30:04,388 - utilities.DriverManager -INFO - *****Element By.cssSelector: button[type='submit'] clickable on the page*****
+2022-07-23 11:30:04,441 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (9dc7f479ae180f1b833f8b8e93c532a8)] -> css selector: button[type='submit']]*****
+2022-07-23 11:30:04,455 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:30:04,464 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 11:30:07,244 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 11:49:39,309 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 11:49:39,350 - utilities.DriverManager -INFO - *****Launched url : http://admin-demo.nopcommerce.com/login*****
+2022-07-23 11:50:19,777 - utilities.DriverManager -INFO - *****Element By.id: email not found on the page*****
+2022-07-23 11:50:19,785 - utilities.DriverManager -INFO - Scenario is failed : Search Customer by Name
+2022-07-23 11:50:19,935 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 11:52:24,908 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 11:52:24,939 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 11:52:30,810 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 11:52:30,898 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (ccc672fc75f9db5adf810a19f30f62a5)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 11:52:31,626 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:52:31,669 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 11:52:31,906 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (ccc672fc75f9db5adf810a19f30f62a5)] -> id: email]*****
+2022-07-23 11:52:31,954 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 11:52:32,078 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (ccc672fc75f9db5adf810a19f30f62a5)] -> id: password]*****
+2022-07-23 11:52:32,144 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 11:52:32,208 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (ccc672fc75f9db5adf810a19f30f62a5)] -> xpath: //button[text()='Login']]*****
+2022-07-23 11:52:32,219 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:52:32,225 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 11:52:34,387 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 11:52:36,381 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 11:52:36,389 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 11:52:40,220 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 11:52:40,309 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (7ec1615965fd36e70530262700e78d06)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 11:52:41,349 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:52:41,441 - utilities.DriverManager -INFO - *****Element By.xpath: //li[text()='Create Account'] clickable on the page*****
+2022-07-23 11:52:41,573 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (7ec1615965fd36e70530262700e78d06)] -> xpath: //li[text()='Create Account']]*****
+2022-07-23 11:52:41,588 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:52:41,624 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 11:52:41,797 - utilities.DriverManager -INFO - *****Text: NSvUj@gmail.com entered in [[ChromeDriver: chrome on WINDOWS (7ec1615965fd36e70530262700e78d06)] -> id: email]*****
+2022-07-23 11:52:41,846 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 11:52:41,988 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (7ec1615965fd36e70530262700e78d06)] -> id: password]*****
+2022-07-23 11:52:42,027 - utilities.DriverManager -INFO - *****Element By.id: firstName found on the page*****
+2022-07-23 11:52:42,154 - utilities.DriverManager -INFO - *****Text: fego user entered in [[ChromeDriver: chrome on WINDOWS (7ec1615965fd36e70530262700e78d06)] -> id: firstName]*****
+2022-07-23 11:52:42,199 - utilities.DriverManager -INFO - *****Element By.cssSelector: button[type='submit'] clickable on the page*****
+2022-07-23 11:52:42,259 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (7ec1615965fd36e70530262700e78d06)] -> css selector: button[type='submit']]*****
+2022-07-23 11:52:42,270 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:52:42,276 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 11:53:22,507 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem not found on the page*****
+2022-07-23 11:53:22,522 - utilities.DriverManager -INFO - Scenario is failed : Successful Registration with Valid Credentials
+2022-07-23 11:53:22,797 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 11:54:03,115 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 11:54:03,138 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 11:54:09,116 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 11:54:09,250 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (7d3e2b739bf890d5b6672b748a39ee5e)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 11:54:09,798 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:54:09,841 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 11:54:10,087 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (7d3e2b739bf890d5b6672b748a39ee5e)] -> id: email]*****
+2022-07-23 11:54:10,143 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 11:54:10,268 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (7d3e2b739bf890d5b6672b748a39ee5e)] -> id: password]*****
+2022-07-23 11:54:10,320 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 11:54:10,375 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (7d3e2b739bf890d5b6672b748a39ee5e)] -> xpath: //button[text()='Login']]*****
+2022-07-23 11:54:10,385 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:54:10,392 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 11:54:12,551 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 11:54:13,998 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 11:54:14,012 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 11:54:18,302 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 11:54:18,431 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (39f91c7ead2081f3a560b30648e10e69)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 11:54:18,579 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:54:18,650 - utilities.DriverManager -INFO - *****Element By.xpath: //li[text()='Create Account'] clickable on the page*****
+2022-07-23 11:54:18,794 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (39f91c7ead2081f3a560b30648e10e69)] -> xpath: //li[text()='Create Account']]*****
+2022-07-23 11:54:18,807 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:54:18,861 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 11:54:19,035 - utilities.DriverManager -INFO - *****Text: wpFiO@gmail.com entered in [[ChromeDriver: chrome on WINDOWS (39f91c7ead2081f3a560b30648e10e69)] -> id: email]*****
+2022-07-23 11:54:19,082 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 11:54:19,216 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (39f91c7ead2081f3a560b30648e10e69)] -> id: password]*****
+2022-07-23 11:54:19,252 - utilities.DriverManager -INFO - *****Element By.id: firstName found on the page*****
+2022-07-23 11:54:19,402 - utilities.DriverManager -INFO - *****Text: fego user entered in [[ChromeDriver: chrome on WINDOWS (39f91c7ead2081f3a560b30648e10e69)] -> id: firstName]*****
+2022-07-23 11:54:19,451 - utilities.DriverManager -INFO - *****Element By.cssSelector: button[type='submit'] clickable on the page*****
+2022-07-23 11:54:19,502 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (39f91c7ead2081f3a560b30648e10e69)] -> css selector: button[type='submit']]*****
+2022-07-23 11:54:19,511 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 11:54:19,518 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 11:54:21,652 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 13:20:26,368 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 13:20:26,393 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 13:20:32,323 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 13:20:32,417 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (45bce3c7cc0f0846a73986c88d8b4938)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 13:20:32,612 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:20:32,678 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 13:20:32,966 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (45bce3c7cc0f0846a73986c88d8b4938)] -> id: email]*****
+2022-07-23 13:20:33,088 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 13:20:33,224 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (45bce3c7cc0f0846a73986c88d8b4938)] -> id: password]*****
+2022-07-23 13:20:33,288 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 13:20:33,351 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (45bce3c7cc0f0846a73986c88d8b4938)] -> xpath: //button[text()='Login']]*****
+2022-07-23 13:20:33,391 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:20:33,416 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 13:20:35,578 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 13:20:37,273 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 13:20:37,291 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 13:20:43,185 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 13:20:43,436 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (cdee2bf23e02a1cb0184511f982bd856)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 13:20:43,579 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:20:43,646 - utilities.DriverManager -INFO - *****Element By.xpath: //li[text()='Create Account'] clickable on the page*****
+2022-07-23 13:20:43,796 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (cdee2bf23e02a1cb0184511f982bd856)] -> xpath: //li[text()='Create Account']]*****
+2022-07-23 13:20:43,812 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:20:43,853 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 13:20:44,021 - utilities.DriverManager -INFO - *****Text: YUjpY@gmail.com entered in [[ChromeDriver: chrome on WINDOWS (cdee2bf23e02a1cb0184511f982bd856)] -> id: email]*****
+2022-07-23 13:20:44,072 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 13:20:44,211 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (cdee2bf23e02a1cb0184511f982bd856)] -> id: password]*****
+2022-07-23 13:20:44,249 - utilities.DriverManager -INFO - *****Element By.id: firstName found on the page*****
+2022-07-23 13:20:44,385 - utilities.DriverManager -INFO - *****Text: fego user entered in [[ChromeDriver: chrome on WINDOWS (cdee2bf23e02a1cb0184511f982bd856)] -> id: firstName]*****
+2022-07-23 13:20:44,436 - utilities.DriverManager -INFO - *****Element By.cssSelector: button[type='submit'] clickable on the page*****
+2022-07-23 13:20:44,493 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (cdee2bf23e02a1cb0184511f982bd856)] -> css selector: button[type='submit']]*****
+2022-07-23 13:20:44,502 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:20:44,508 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 13:21:24,648 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem not found on the page*****
+2022-07-23 13:21:24,657 - utilities.DriverManager -INFO - Scenario is failed : Successful Registration with Valid Credentials
+2022-07-23 13:21:24,919 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 13:24:21,727 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 13:24:21,750 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 13:24:27,389 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 13:24:27,476 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (34c424f51a9febe3604114e011dc72ce)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 13:24:28,589 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:24:28,655 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 13:24:28,888 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (34c424f51a9febe3604114e011dc72ce)] -> id: email]*****
+2022-07-23 13:24:28,924 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 13:24:29,052 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (34c424f51a9febe3604114e011dc72ce)] -> id: password]*****
+2022-07-23 13:24:29,104 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 13:24:29,174 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (34c424f51a9febe3604114e011dc72ce)] -> xpath: //button[text()='Login']]*****
+2022-07-23 13:24:29,180 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:24:29,188 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 13:24:31,417 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 13:24:32,960 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 13:24:32,978 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 13:24:37,061 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 13:24:37,520 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (91f7f8035e9fd2300f24b2a72bed1a13)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 13:24:38,231 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:24:38,282 - utilities.DriverManager -INFO - *****Element By.xpath: //li[text()='Create Account'] clickable on the page*****
+2022-07-23 13:24:38,402 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (91f7f8035e9fd2300f24b2a72bed1a13)] -> xpath: //li[text()='Create Account']]*****
+2022-07-23 13:24:38,412 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:24:38,466 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 13:24:38,647 - utilities.DriverManager -INFO - *****Text: GxxnC@gmail.com entered in [[ChromeDriver: chrome on WINDOWS (91f7f8035e9fd2300f24b2a72bed1a13)] -> id: email]*****
+2022-07-23 13:24:38,705 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 13:24:38,835 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (91f7f8035e9fd2300f24b2a72bed1a13)] -> id: password]*****
+2022-07-23 13:24:38,875 - utilities.DriverManager -INFO - *****Element By.id: firstName found on the page*****
+2022-07-23 13:24:39,011 - utilities.DriverManager -INFO - *****Text: fego user entered in [[ChromeDriver: chrome on WINDOWS (91f7f8035e9fd2300f24b2a72bed1a13)] -> id: firstName]*****
+2022-07-23 13:24:39,062 - utilities.DriverManager -INFO - *****Element By.cssSelector: button[type='submit'] clickable on the page*****
+2022-07-23 13:24:39,125 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (91f7f8035e9fd2300f24b2a72bed1a13)] -> css selector: button[type='submit']]*****
+2022-07-23 13:24:39,133 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:24:39,140 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 13:24:42,385 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 13:26:01,644 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 13:26:01,668 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 13:26:07,517 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 13:26:07,605 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (6db59c2a3ba71166ea666b89e4fb41af)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 13:26:08,326 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:26:08,402 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 13:26:08,634 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (6db59c2a3ba71166ea666b89e4fb41af)] -> id: email]*****
+2022-07-23 13:26:08,679 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 13:26:08,792 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (6db59c2a3ba71166ea666b89e4fb41af)] -> id: password]*****
+2022-07-23 13:26:08,842 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 13:26:08,902 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (6db59c2a3ba71166ea666b89e4fb41af)] -> xpath: //button[text()='Login']]*****
+2022-07-23 13:26:08,908 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:26:08,914 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 13:26:11,129 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 13:26:12,492 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 13:26:12,506 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 13:26:18,471 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 13:26:18,618 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (dff5666164f4c5324fbd80f2e691896d)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 13:26:18,769 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:26:18,832 - utilities.DriverManager -INFO - *****Element By.xpath: //li[text()='Create Account'] clickable on the page*****
+2022-07-23 13:26:18,953 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (dff5666164f4c5324fbd80f2e691896d)] -> xpath: //li[text()='Create Account']]*****
+2022-07-23 13:26:18,967 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:26:19,022 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 13:26:19,192 - utilities.DriverManager -INFO - *****Text: AZIKM@gmail.com entered in [[ChromeDriver: chrome on WINDOWS (dff5666164f4c5324fbd80f2e691896d)] -> id: email]*****
+2022-07-23 13:26:19,242 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 13:26:19,383 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (dff5666164f4c5324fbd80f2e691896d)] -> id: password]*****
+2022-07-23 13:26:19,419 - utilities.DriverManager -INFO - *****Element By.id: firstName found on the page*****
+2022-07-23 13:26:19,551 - utilities.DriverManager -INFO - *****Text: fego user entered in [[ChromeDriver: chrome on WINDOWS (dff5666164f4c5324fbd80f2e691896d)] -> id: firstName]*****
+2022-07-23 13:26:19,603 - utilities.DriverManager -INFO - *****Element By.cssSelector: button[type='submit'] clickable on the page*****
+2022-07-23 13:26:19,657 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (dff5666164f4c5324fbd80f2e691896d)] -> css selector: button[type='submit']]*****
+2022-07-23 13:26:19,666 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:26:19,672 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 13:26:22,120 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 13:27:52,980 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 13:27:53,008 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 13:27:58,938 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 13:27:59,029 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (1898e50447384cbd7bff30697eccf884)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 13:27:59,722 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:27:59,766 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 13:28:00,014 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (1898e50447384cbd7bff30697eccf884)] -> id: email]*****
+2022-07-23 13:28:00,062 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 13:28:00,184 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (1898e50447384cbd7bff30697eccf884)] -> id: password]*****
+2022-07-23 13:28:00,233 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 13:28:00,290 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (1898e50447384cbd7bff30697eccf884)] -> xpath: //button[text()='Login']]*****
+2022-07-23 13:28:00,303 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:28:00,313 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 13:28:02,520 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 13:28:04,075 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 13:28:04,086 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 13:28:08,503 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 13:28:08,615 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (1b2b1beba9a8aeb2e298a1df53854e61)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 13:28:09,159 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:28:09,229 - utilities.DriverManager -INFO - *****Element By.xpath: //li[text()='Create Account'] clickable on the page*****
+2022-07-23 13:28:09,348 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (1b2b1beba9a8aeb2e298a1df53854e61)] -> xpath: //li[text()='Create Account']]*****
+2022-07-23 13:28:09,359 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:28:09,409 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 13:28:09,588 - utilities.DriverManager -INFO - *****Text: AgGsA@gmail.com entered in [[ChromeDriver: chrome on WINDOWS (1b2b1beba9a8aeb2e298a1df53854e61)] -> id: email]*****
+2022-07-23 13:28:09,638 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 13:28:09,768 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (1b2b1beba9a8aeb2e298a1df53854e61)] -> id: password]*****
+2022-07-23 13:28:09,805 - utilities.DriverManager -INFO - *****Element By.id: firstName found on the page*****
+2022-07-23 13:28:09,933 - utilities.DriverManager -INFO - *****Text: fego user entered in [[ChromeDriver: chrome on WINDOWS (1b2b1beba9a8aeb2e298a1df53854e61)] -> id: firstName]*****
+2022-07-23 13:28:09,984 - utilities.DriverManager -INFO - *****Element By.cssSelector: button[type='submit'] clickable on the page*****
+2022-07-23 13:28:10,040 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (1b2b1beba9a8aeb2e298a1df53854e61)] -> css selector: button[type='submit']]*****
+2022-07-23 13:28:10,047 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 13:28:10,054 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 13:28:12,838 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 19:49:37,632 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 19:49:41,079 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 19:49:41,296 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 19:55:09,918 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 19:55:13,501 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 19:55:13,668 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 19:56:43,614 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 19:56:46,972 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 19:56:47,177 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 20:02:26,886 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 20:11:05,637 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 20:11:06,107 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 20:12:06,891 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 20:14:16,069 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 20:14:20,562 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 20:14:20,776 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 20:15:49,752 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 20:40:00,712 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 21:22:59,791 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 21:23:00,293 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 21:23:29,164 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 21:23:35,689 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 21:23:35,816 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 21:24:46,369 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 21:38:34,548 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:02:28,298 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:07:40,104 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:12:50,259 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:14:13,509 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:14:18,396 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:14:37,246 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 23:14:37,437 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 23:15:44,064 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:15:48,805 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:22:40,159 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:22:44,567 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:29:33,837 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:29:38,248 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:31:59,575 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:31:59,602 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 23:32:12,074 - utilities.DriverManager -INFO - *****Element By.cssSelector: a[data-test*="login-link"] clickable on the page*****
+2022-07-23 23:32:12,164 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (471ad595683b5a0a9ea4895c8846e71e)] -> css selector: a[data-test*="login-link"]]*****
+2022-07-23 23:32:12,340 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 23:32:12,410 - utilities.DriverManager -INFO - *****Element By.id: email found on the page*****
+2022-07-23 23:32:12,690 - utilities.DriverManager -INFO - *****Text: test-f35fe6@test.mailgenius.com entered in [[ChromeDriver: chrome on WINDOWS (471ad595683b5a0a9ea4895c8846e71e)] -> id: email]*****
+2022-07-23 23:32:12,794 - utilities.DriverManager -INFO - *****Element By.id: password found on the page*****
+2022-07-23 23:32:12,921 - utilities.DriverManager -INFO - *****Text: Qwerty19 entered in [[ChromeDriver: chrome on WINDOWS (471ad595683b5a0a9ea4895c8846e71e)] -> id: password]*****
+2022-07-23 23:32:12,975 - utilities.DriverManager -INFO - *****Element By.xpath: //button[text()='Login'] clickable on the page*****
+2022-07-23 23:32:13,043 - utilities.DriverManager -INFO - *****Element clicked : [[ChromeDriver: chrome on WINDOWS (471ad595683b5a0a9ea4895c8846e71e)] -> xpath: //button[text()='Login']]*****
+2022-07-23 23:32:13,052 - utilities.DriverManager -INFO - *****Page loaded successfully*****
+2022-07-23 23:32:13,059 - utilities.DriverManager -INFO - *****The Title of the page : Fego*****
+2022-07-23 23:32:15,311 - utilities.DriverManager -INFO - *****Element By.cssSelector: span.css-xooaem found on the page*****
+2022-07-23 23:32:17,169 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:32:17,179 - utilities.DriverManager -INFO - *****Launched url : https://fego.vmos-demo.com/*****
+2022-07-23 23:32:57,313 - utilities.DriverManager -INFO - Scenario is failed : Successful Registration with Valid Credentials
+2022-07-23 23:32:57,444 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 23:34:46,808 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:34:47,913 - utilities.DriverManager -INFO - Scenario is failed : Verify user Login
+2022-07-23 23:34:48,020 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 23:34:49,540 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:34:49,562 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 23:34:49,660 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 23:36:26,887 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:36:27,996 - utilities.DriverManager -INFO - Scenario is failed : Verify user Login
+2022-07-23 23:36:28,120 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 23:36:29,540 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:36:29,550 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 23:36:29,656 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 23:38:41,960 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:38:43,300 - utilities.DriverManager -INFO - Scenario is failed : Verify user Login
+2022-07-23 23:38:43,470 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 23:38:44,938 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:38:44,949 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 23:38:45,110 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 23:41:41,636 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:43:47,129 - utilities.DriverManager -INFO - Scenario is failed : Verify user Login
+2022-07-23 23:43:47,263 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 23:43:48,783 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-23 23:43:52,461 - utilities.DriverManager -INFO - Scenario is failed : Verify user registration
+2022-07-23 23:43:52,619 - utilities.DriverManager -INFO - *****Screenshot captured successfully*****
+2022-07-23 23:47:46,837 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-24 00:12:28,841 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-24 00:12:33,897 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-24 00:47:46,214 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-24 00:47:51,794 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-24 00:54:56,167 - utilities.DriverManager -INFO - *****Browser launched : chrome*****
+2022-07-24 00:55:00,874 - utilities.DriverManager -INFO - *****Browser launched : chrome*****

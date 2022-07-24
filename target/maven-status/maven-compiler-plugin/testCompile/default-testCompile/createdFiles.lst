@@ -1,0 +1,13 @@
+utilities\DriverManager.class
+utilities\JsonReader.class
+runners\TestRunner.class
+stepDefinitions\Steps.class
+stepDefinitions\StepsAPI.class
+pageObjects\RegistrationPage.class
+utilities\PageActions$1.class
+stepDefinitions\Hooks.class
+utilities\PageActions$2.class
+utilities\PageActions.class
+pageObjects\LoginPage.class
+utilities\ExtentReportManager.class
+stepDefinitions\BaseClass.class
