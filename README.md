@@ -23,5 +23,5 @@ Please note the values set for attributes glue and feature in cucumberoptions of
 
 If not please change the paths in runner class accordingly and provide the tags.
 
-![solarized selective contrast](D:\AutomationFramework_master\AutomationFramework_master\test-output\API_result.PNG)
+![solarized selective contrast](https://github.com/deolas/WebAPI_Cucumber/blob/main/test-output/API_result.PNG)
 
